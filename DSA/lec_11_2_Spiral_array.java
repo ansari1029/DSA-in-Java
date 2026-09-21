@@ -2,7 +2,7 @@
 package DSA;
 import java.util.*;
 
-public class lec11_2_Spiral_array {
+public class lec_11_2_Spiral_array {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int r,c;
