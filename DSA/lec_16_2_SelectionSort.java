@@ -1,7 +1,4 @@
 //Smallest Element ko pahle leke aate hain
-package DSA;
-import java.util.*;
-
 import java.util.Scanner;
 
 public class lec_16_2_SelectionSort {
