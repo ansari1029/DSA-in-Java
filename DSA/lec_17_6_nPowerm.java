@@ -20,7 +20,6 @@ public class lec_17_6_nPowerm {
 		int n=2, m=5;
 		int res = calcPower(n, m);
 		System.out.println(n+"^"+m+" is :"+res);
-
 	}
 
 }
