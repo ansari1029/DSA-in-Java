@@ -1,3 +1,4 @@
+//n power m using n call stack
 package DSA;
 
 public class lec_17_5_nPOWERm {
