@@ -1,4 +1,4 @@
-//It uses divide and Conquer rule 
+//It uses divide and Conquer rule TC=(nlogn) SC=(n)
 package DSA;
 
 public class lec_21_MergeSort {
