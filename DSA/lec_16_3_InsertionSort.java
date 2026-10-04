@@ -23,6 +23,7 @@ public class lec_16_3_InsertionSort {
 		//sorting
 		for(int i=1; i<arr.length; i++) {
 			int current=arr[i];
+			//assume to be sorted part and is points to last index of sorted part.
 			int j=i-1;
 			while(j>=0 && current < arr[j]) {
 				//ek jagah bnayenge new element ke liye
